@@ -2,6 +2,8 @@
 
 A simple weather API that fetches current weather data from [Open-Meteo](https://open-meteo.com/).
 
+> This is a solution for the [Weather API project](https://roadmap.sh/projects/weather-api-wrapper-service) on roadmap.sh
+
 ## Features
 
 - Get current weather by city name
